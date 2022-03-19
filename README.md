@@ -2,4 +2,4 @@
 
 - Here are the topics that the course covers. 
 
-<img src = "img/outline.jpg" alt="" width="600" height="800">
+<img src = "img/outline.jpg" alt="" width="700" height="600">
