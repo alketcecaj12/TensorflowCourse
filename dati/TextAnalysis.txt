@@ -1,0 +1,43 @@
+1- Sentiment Analysis 
+
+The flights were on time both in Sydney and the connecting flight in Singapore. Crew were pleasant and helpful.
+The flights were delayed both in Sydney and the connecting flight in Singapore. Crew were unpleasant and unwilling to assist.
+
+
+2- Question Answering
+
+Singapore Airlines was founded in 1947 and was originally known as Malayan Airways. 
+It is the national airline of Singapore and is based at Singapore Changi Airport. 
+It is particularly strong in Southeast Asian and Australian destinations but also flies to 6 different continents, 
+covering 35 countries.There are more than 100 planes in the Singapore Airlines fleet, most of which are Airbus aircraft plus 
+a smaller amount of Boeings..'''
+
+How many aircrafts does Singapore Airlines have?
+
+
+3- NER (Named Entity Recognition)
+
+Rome is an ancient city and the capital of Italy. It is also the capital of Lazio region 
+Rome is home to FAO organization. The president of the Republic is Sergio Matarella and the prime minister is Mario Draghi.
+
+
+4- Text Summarization 
+
+Extremely unusual time to fly as we needed an exemption to fly out of Australia from the government. We obtained one as working in Tokyo for the
+ year as teachers.
+The check in procedure does take a lot longer as more paperwork and phone calls are needed to check if you are allowed to travel. The staff 
+were excellent in explaining the procedure as they are working with very few numbers.
+The flight had 40 people only, so lots of room and yes we had 3 seats each. The service of meals and beverages was done very quickly and 
+efficiently.
+Changi airport was like a ghost town with most shops closed and all passengers are walked/transported to a transit zone until your next flight 
+is ready. You are then walked in single file or transported to your next flight, so very strange as at times their seemed be more workers in
+ PPE gear than passengers.
+The steps we went through at Narita were extensive, downloading apps, fill in paperwork and giving a saliva sample to test for covid 19. 
+It took about 2 hours to get through the steps and we only sat down for maybe 10 minutes at the last stop to get back your covid results. 
+The people involved were fantastic and we were lucky that we were numbers two and three in the initial first line up, but still over 2 hours
+ it took so be aware. We knew we were quick as the people picking us up told us we were first out.
+ 
+ 
+5- Text Transation English to German. 
+
+Hello, my name is Tom.
